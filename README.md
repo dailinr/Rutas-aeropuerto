@@ -6,7 +6,7 @@ Al llevar a cabo este proyecto se logró dar solución a las distintas cuestione
 
 Finalmente, el programa presenta en pantalla la opción las opciones al usuario de acuerdo a sus necesidades.
 
-Las instrucciones para usar el programa son las siguientes:
+# Las instrucciones para usar el programa son las siguientes:
 
  Click izquierdo sobre cualquier lugar de la pantalla que no sea una ciudad para agregar un lugar
 
